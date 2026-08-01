@@ -229,6 +229,9 @@ This project can be further improved by exploring:
 These improvements were intentionally kept outside the current project scope to focus on implementing and comparing the core Machine Learning classification models.
 
 ---
+### Conclusion
+
+Logistic Regression achieved the best overall performance with **81.78% accuracy** and **79.58% weighted F1-score**, closely followed by SVM and Random Forest. However, its **35% recall for the default class** shows that accuracy alone is not sufficient for reliable credit-risk prediction. Future improvements could focus on **class imbalance handling, hyperparameter tuning, and threshold optimization** to improve default detection.
 
 ##  Project
 
